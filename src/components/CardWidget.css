@@ -1,0 +1,10 @@
+.cart{
+    position: relative;
+    display: inline-block;
+    top: 15px;
+    right: 40px;
+  }
+  .linkCart{
+    text-decoration: none;
+    color: black;
+  }

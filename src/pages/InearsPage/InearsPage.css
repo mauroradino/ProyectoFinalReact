@@ -1,0 +1,143 @@
+h1{
+    padding-top: 30px;
+}
+.grid_productos{
+    display:grid;
+    margin-top: 30px;
+    grid-template-columns: 25% 25% 25%;
+    grid-template-rows: 35% 35% 35%;
+    background-color: #e0e0e0;
+    justify-content: center;
+    padding-bottom: 200px;
+    gap: 30px;
+}
+.cardProductos{
+    height: 400px;
+}
+.card-img-top{
+    height: 200px;
+    width: auto;
+    padding: 20px;
+    align-self: center;
+}
+.card1{
+     background-color: rgb(204, 203, 203);
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+.card2{
+     background-color: rgb(204, 203, 203);
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+.card3{
+     background-color: rgb(204, 203, 203);
+    grid-column: 3/4;
+    grid-row: 1/2;
+}
+.card4{
+     background-color: rgb(204, 203, 203);
+    grid-column: 1/2;
+    grid-row: 2/3;
+}
+.card5{
+     background-color: rgb(204, 203, 203);
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+.card6{
+     background-color: rgb(204, 203, 203);
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+.card7{
+     background-color: rgb(204, 203, 203);
+    grid-column: 1/2;
+    grid-row: 3/4;
+}
+.card8{
+     background-color: rgb(204, 203, 203);
+    grid-column: 2/3;
+    grid-row: 3/4;
+}
+.card9{
+     background-color: rgb(204, 203, 203);
+    grid-column: 3/4;
+    grid-row: 3/4;
+}
+.Link{
+    padding: 10px;
+    background-color: #b9b4b4;
+    border-color: black;
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.Link:hover{
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+
+@media (max-width: 767px){
+    .card-img-top{
+        width: 25%;
+        height: 50%;
+        align-self: center;
+    }
+    .grid_productos{
+            display:grid;
+            margin-top: 30px;
+            grid-template-columns: 60%;
+            grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+            background-color: #e0e0e0;
+            justify-content: center;
+            gap: 30px;
+    }
+    .card1{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 1/2;
+   }
+   .card2{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 2/3;
+   }
+   .card3{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 3/4;
+   }
+   .card4{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 4/5;
+   }
+   .card5{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 5/6;
+   }
+   .card6{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 6/7;
+   }
+   .card7{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 7/8;
+   }
+   .card8{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 8/9;
+   }
+   .card9{
+        background-color: rgb(204, 203, 203);
+       grid-column: 1/2;
+       grid-row: 9/10;
+   }
+}

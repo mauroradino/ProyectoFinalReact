@@ -1,0 +1,187 @@
+[ 
+    {
+    "id": 1,
+    "categoria": "in-ear",    
+    "nombre": "MODE2BLACK",
+    "precio": 500,
+    "descripcion": "The Marshall Mode 2 Black is a stylish pair of wired earphones with impressive sound quality, enhanced bass, and a comfortable fit. It features a microphone and remote control for easy call management and music control. With its sleek design and durable construction, it's perfect for on-the-go music enthusiasts.",
+    "imagenURL": "https://images.prom.ua/3431591509_w640_h640_besprovodnye-naushniki-marshall.jpg",
+    "imagenURL2": "https://www.marshallheadphones.com/on/demandware.static/-/Sites-zs-master-catalog/default/dw3b62ed37/images/marshall/headphones/mode-ii/high-res/pos-highres-marshall-mode-ii-black-01.png",
+    "imagenURL3": "https://www.marshallheadphones.com/on/demandware.static/-/Library-Sites-SharedLibrary-Marshall/default/dw3a3a357f/images/categories/headphones/mode-ii/mobile/03-usp03-mode-ii-mobile@5xV2.png"
+    },
+    {
+        "id": 2,
+        "categoria": "in-ear",    
+        "nombre": "WAVE100TWS",
+        "precio": 200,
+        "descripcion": "The JBL WAVE 100 TWS are wireless earbuds that offer high-quality audio performance. With their sleek and compact design, these earbuds provide a comfortable and secure fit. They feature advanced Bluetooth technology for seamless connectivity and come equipped with touch controls for easy operation. The JBL WAVE 100 TWS earbuds deliver immersive sound, deep bass, and clear vocals, making them perfect for music lovers and audio enthusiasts on the go.",
+        "imagenURL": "https://uk.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa40c862a/1.JBL_Wave_VIBE_100TWS_Product%20Images_Hero_Ivory.png?sw=680&sh=680",
+        "imagenURL2": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw16169633/4.JBL_Wave_VIBE_100TWS_Product%20Images_Detail_Ivory.png?sw=537&sfrm=png",
+        "imagenURL3": "https://d2r9epyceweg5n.cloudfront.net/stores/002/363/620/products/6-jbl_wave_vibe_100tws_product-images_top-case_ivory1-9650a39efa6725e16816764697912176-1024-1024.webp"
+        },
+        {
+            "id": 3,
+            "categoria": "in-ear",    
+            "nombre": "TUNE230TWS",
+            "precio": 300,
+            "descripcion": "The JBL Tune 230 TWS is a compact and wireless earbud solution that offers excellent audio performance. With its sleek design and comfortable fit, it provides immersive sound and deep bass. The earbuds come with intuitive touch controls for easy music playback and call management. The JBL Tune 230 TWS is perfect for those who want a portable and high-quality audio experience on the go.",
+            "imagenURL": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/197/products/1-jbl_tune_230nc_productimage_hero_black1-3526b309448ec94a1f16505686424220-640-0.png",
+            "imagenURL2": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/197/products/2-jbl_tune_230nc_productimage_front_black1-407c8c236315a1bdd816505686421682-640-0.png",
+            "imagenURL3": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/153/197/products/3-jbl_tune_230nc_productimage_earbudback_black_1-8e129f62b562ba49b616505686424423-640-0.png"
+            },
+            {
+                "id": 4,
+                "categoria": "in-ear",    
+                "nombre": "LINKBUDS",
+                "precio": 300,
+                "descripcion": "The LinkBuds are stylish and wireless earbuds that provide a seamless audio experience. With their compact design and comfortable fit, they offer convenience and mobility for your everyday activities. The earbuds deliver clear sound and rich bass, allowing you to enjoy your favorite music with great quality. The LinkBuds also feature touch controls for easy navigation and hands-free calling. Whether you're working out, commuting, or relaxing, the LinkBuds are the perfect companion for your audio needs.",
+                "imagenURL": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FAccessories+%28Assets%29%2FHeadphones%2FEarbuds%2F2022%2FWF-L900%2FW%2FeComm-Gray%2F03-LinkBuds_B_case_open2.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZBY2Nlc3NvcmllcyslMjhBc3NldHMlMjklMkZIZWFkcGhvbmVzJTJGRWFyYnVkcyUyRjIwMjIlMkZXRi1MOTAwJTJGVyUyRmVDb21tLUdyYXklMkYwMy1MaW5rQnVkc19CX2Nhc2Vfb3BlbjIucG5nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTc2MjAwMH19fV19&Signature=VJfEJkcA7Psu1N0s3yy1iojwypBu6djdG-9HtEgKrJlBVMIkRlUEGO5oDX5J1Wtzqivw8NVRMNhiS8qtzqXzCRfCDGdW4WKW3sobp9PeX8LKycyaovPcwKc-WR0fuDLN5xYkqUPJESVpbMrOq9KAmo8RhGPrxee3Lt55-6jL0mAYvnf4AvrOgDW-wpZxUBz9L-yGUn6ZD84cBhZdXF8GRYoQ7Xb7a7MlBSxHVqxhAGpqgo-XtDYSnZoJyIoBj9MUQuGrjzgCo~CdrmiUMJ907dlUpRucTh~NNuD6TmGzdLPdtI7ib2d0GmzAFKNCk7SuAihj6bfy18uNn0oHkqGwRQ__&Key-Pair-Id=K37BLT9C6HMMJ0",
+                "imagenURL2": "https://store.sony.com.au/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dw0ea608e4/images/WFL900H/WFL900H.png?sw=350&sh=350&sm=fit",
+                "imagenURL3": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2FAsset+Hierarchy%2FConsumer+Assets%2FAccessories+%28Assets%29%2FHeadphones%2FEarbuds%2F2022%2FWF-L900%2FH%2FeComm-White%2F11-LinkBuds_G_fitting_side.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZBc3NldCtIaWVyYXJjaHklMkZDb25zdW1lcitBc3NldHMlMkZBY2Nlc3NvcmllcyslMjhBc3NldHMlMjklMkZIZWFkcGhvbmVzJTJGRWFyYnVkcyUyRjIwMjIlMkZXRi1MOTAwJTJGSCUyRmVDb21tLVdoaXRlJTJGMTEtTGlua0J1ZHNfR19maXR0aW5nX3NpZGUucG5nLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTc2MjAwMH19fV19&Signature=HPF2un3KFfeGFKZdeOQCtR2FQGwBOkyMchr68QNvMw5J97dHTCyc7xVA34yVn~KMO2Tc0AAedQDxkPcxnVIxpSjBh3tXyx8C83J7jUkbraYTdevLS6b6W6BHdT0JMJKbEz8FcpFipLwZ8wnN6U2o9WrLhkzDoS3JAovt2L8Ks252aexAHaCeXy47DO6tsXU4A6pOpxpz9AlJkxPz4mjJnIXmW7yJbTbB0DXChEFo7AKz0ZO4aekPhTJFUNQRBscGmjygh-vdz4f-x-51dexJQEou0D6PPjReEADI0cRyIqf1kK0b2uWWUs8~lZQ9yWZ52nxw7AXnCn7SFWIkxxN4Bw__&Key-Pair-Id=K37BLT9C6HMMJ0"
+                },
+                {
+                    "id": 5,
+                    "categoria": "in-ear",    
+                    "nombre": "JBL TOUR PRO",
+                    "precio": 600,
+                    "descripcion": "The JBL Tour Pro is a premium pair of wireless earbuds designed for the discerning audio enthusiast. With their sleek and modern design, these earbuds offer a comfortable and secure fit for all-day wear. The Tour Pro features advanced noise cancellation technology, allowing you to enjoy immersive sound without distractions. Equipped with powerful drivers, they deliver precise audio reproduction with deep bass and clear highs. The earbuds also boast a long battery life, ensuring uninterrupted listening sessions. With intuitive touch controls and seamless connectivity, the JBL Tour Pro is the perfect companion for music lovers on the go.",
+                    "imagenURL":  "https://ecommerce.mysav.eu/3116-home_default/cargador-jbl-tour-pro-tws-r24-1.jpg",
+                    "imagenURL2": "https://www.spark.co.nz/content/dam/spark/images/product-images/accessories/headphones/jbl/jbl-tour-pro-2/jbl-tour-pro-2-black-6.png",
+                    "imagenURL3": "https://40bc23136fbccfbfd16a-d1efe2f0adbefb811760622b90eef2d8.ssl.cf5.rackcdn.com/1-kzehFeY6-large.png"
+                    },
+                    {
+                        "id": 6,
+                        "categoria": "in-ear",    
+                        "nombre": "WF-1000XM4",
+                        "precio": 300,
+                        "descripcion": "The WF-1000XM4 headphones are a top-of-the-line offering from Sony. These wireless earbuds combine cutting-edge technology with premium sound quality. With their sleek and ergonomic design, they fit comfortably in your ears and provide a secure and stable fit. The WF-1000XM4 boasts industry-leading noise cancellation, allowing you to enjoy your music in a truly immersive way. The headphones feature powerful drivers that deliver rich and detailed audio, with deep bass and clear highs. They also offer a long battery life, ensuring hours of uninterrupted listening. With intuitive touch controls and seamless connectivity, the WF-1000XM4 is the ultimate choice for audiophiles seeking the best wireless audio experience.",
+                        "imagenURL": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2F_default_upload_bucket%2F03.-WF-1000XM4_B_case_open_one_side_out-Mid_1.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZfZGVmYXVsdF91cGxvYWRfYnVja2V0JTJGMDMuLVdGLTEwMDBYTTRfQl9jYXNlX29wZW5fb25lX3NpZGVfb3V0LU1pZF8xLnBuZy5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDU3NjIwMDB9fX1dfQ__&Signature=i8XaX0uGfwmWW9owWKBMgcVMdOn9nWdJFyk86mXSYjg5dwEm5~VXoUtWKDjMqkclZ~LJ5RC-W58x16TU~HnhIBsXf9D8~mqZegX-KbEJeMxkZcpUziUjYND-WaEpuIwE~2vxtQuaX6MK7fvcj5oeUqEGrnhnYJq9MDrdlNmMLs74wutpzGrMB52Z8Gxa0uDOEOvmu60T7F~CWJxUGMMfbiKuDcH8u-936uMc9ttFzhrBeUkzcAkof~2vDzyD0oS98IpBLqQLRNeOhXRoyMbjNFmkRcPXipx6ZEH1beE9bXyIUV9CRAK6g8m92QGMoa0~Vu5ABD3e3cB~N4jdXpou2Q__&Key-Pair-Id=K37BLT9C6HMMJ0",
+                        "imagenURL2": "https://arsonyb2c.vtexassets.com/arquivos/ids/357009/d7b7a583061ec800dfa74bea7bc37941.jpg?v=637588122166530000",
+                        "imagenURL3": "https://sony.scene7.com/is/image/sonyglobalsolutions/product-primary-image-grey-1200x1200?$mediaCarouselSmall$&fmt=png-alpha"
+                        },
+                        {
+                            "id": 7,
+                            "categoria": "in-ear",    
+                            "nombre": "WFC500",
+                            "precio": 200,
+                            "descripcion": "The Sony WF-C500 headphones are true wireless earbuds that offer a compact and portable design. These earbuds provide a seamless and wireless audio experience, allowing you to enjoy your favorite music or take calls without any tangled cables. With their ergonomic fit and customizable ear tips, they provide comfort and a secure fit for extended periods of use. The WF-C500 headphones deliver high-quality sound with deep bass and clear treble, enhancing your audio experience. They also feature convenient touch controls for easy playback and call management. Additionally, these earbuds offer long battery life, ensuring hours of uninterrupted listening.",
+                            "imagenURL": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1674054603/Croma%20Assets/Communication/Headphones%20and%20Earphones/Images/247474_0_q7oyv0.png/mxw_640,f_auto",
+                            "imagenURL2": "https://d13o3tuo14g2wf.cloudfront.net/thumbnails%2Flarge%2F_default_upload_bucket%2FWF-C500_black_001_4.png.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTNvM3R1bzE0ZzJ3Zi5jbG91ZGZyb250Lm5ldC90aHVtYm5haWxzJTJGbGFyZ2UlMkZfZGVmYXVsdF91cGxvYWRfYnVja2V0JTJGV0YtQzUwMF9ibGFja18wMDFfNC5wbmcucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ1NzYyMDAwfX19XX0_&Signature=i7B7oqOVBEOiNXszatNBwFeIsH~rkH5ofLPYHIQjOTWLXbhoSZ3OT6mSb~AnFNkIkpGtGHXzNjZCDjZ-H7rurelNnSZarG3A0rih3Ga1hkRYNwieKw0w50Ux~KR8vPuFTGlhWQb~ZBLUkW6cn~dMMZX0L1c24GYnEapgxCxRmD0xACbrjXA~h1x40VtK1AUW5416gOpoCDlwSgDeDkcd9HAzHoCCl99wsrrRMzYNvlHzi1vPaiixRn4OnZt4BwSuf6-LBNtMg9qDV8QyGWLOP9i4T5X0htsBPp~ldaCuU3uPclxs8bvWESYXuO78FHwHpQ5X2TUjTKT-E2SZa8618g__&Key-Pair-Id=K37BLT9C6HMMJ0",
+                            "imagenURL3": "https://www.sony.ca/image/cbca09d677ee764befdd130dbdb9dc90?fmt=png-alpha&wid=900&hei=800"
+                            },
+                            {
+                                "id": 8,
+                                "categoria": "in-ear",    
+                                "nombre": "AIRPODSPRO2",
+                                "precio": 800,
+                                "descripcion": "The AirPods Pro 2 are the next generation of Apple's popular true wireless earbuds. These earbuds feature an updated design with a customizable fit and a sleek charging case. With active noise cancellation technology, they provide immersive sound by blocking out unwanted background noise. The AirPods Pro 2 offer a seamless connection to Apple devices and convenient touch controls for easy playback and call management. They deliver high-quality audio with rich bass and clear vocals, enhancing your listening experience. These earbuds also come with a long battery life, ensuring extended usage time throughout the day.",
+                                "imagenURL": "https://iphoneros.com/wp-content/uploads/2020/10/50DE4744-5400-43C6-8187-612A531AFB58.png",
+                                "imagenURL2": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP880/sp880-airpods-Pro-2nd-gen.png",
+                                "imagenURL3": "https://cdn.shopify.com/s/files/1/1234/9356/products/image_4ae1451f-67ae-4a85-955d-d19202659e92_500x500.png?v=1669718747"
+                                },
+                                {
+                                    "id": 9,
+                                    "categoria": "in-ear",    
+                                    "nombre": "BUD2PRO",
+                                    "precio": 300,
+                                    "descripcion": "The Bud 2 Pro headphones are a compact and feature-packed wireless earbud option. With their sleek design and comfortable fit, they provide a seamless listening experience. These earbuds offer advanced features such as noise cancellation, allowing you to enjoy your music without distractions from the surrounding environment. They also boast excellent sound quality with clear highs and deep bass, delivering an immersive audio experience. The Bud 2 Pro headphones come with convenient touch controls for easy playback and call management. With their long battery life, they ensure extended usage time for your on-the-go lifestyle.",
+                                    "imagenURL": "https://samsungar.vtexassets.com/arquivos/ids/184122-800-auto?width=1000&height=auto&aspect=true",
+                                    "imagenURL2": "https://images.samsung.com/is/image/samsung/p6pim/ar/2208/gallery/ar-galaxy-buds2-pro-r510-sm-r510nzaaaro-533194898?$650_519_PNG$",
+                                    "imagenURL3": "https://api.sammobile.com/static/4-006_product_galaxy_buds2pro_borapurple_case_top_combination_dynamic_LI.png?1660133798"
+                                    },
+
+
+
+
+
+                                    {
+                                        "id": 10,
+                                        "categoria": "headphone",    
+                                        "nombre": "WH-1000XM4",
+                                        "precio": 5000,
+                                        "descripcion": "The WH-1000XM4 is a top-of-the-line wireless noise-canceling headphone model by Sony, known for its excellent sound quality, advanced noise cancellation technology, and comfortable design.",
+                                        "imagenURL": "https://www.sony.com.ar/image/5d02da5df552836db894cead8a68f5f3?fmt=png-alpha&wid=440",
+                                        "imagenURL2": "https://www.sony.com.ar/image/a623e0ac346dea68e59c279e05221b59?fmt=png-alpha&wid=440",
+                                        "imagenURL3": "https://www.pakmobizone.pk/wp-content/uploads/2022/04/Sony-WH-1000XM4-Wireless-Noise-Cancelling-Headphones-Black-2.png"
+                                        },
+                                        {
+                                            "id": 11,
+                                            "categoria": "headphone",    
+                                            "nombre": "LOS ANGELES",
+                                            "precio": 2200,
+                                            "descripcion": "Los Angeles headphones are a stylish and high-quality pair of headphones designed for immersive audio experiences. They offer excellent sound clarity, deep bass, and a comfortable fit for extended listening sessions. With sleek design elements and advanced features, these headphones provide a premium audio experience for music lovers and audio enthusiasts alike.",
+                                            "imagenURL": "https://cdn.shopify.com/s/files/1/0573/2309/4216/products/LosAngeles_SandGold_001_740x.png?v=1650876856",
+                                            "imagenURL2": "https://cdn.shopify.com/s/files/1/0573/2309/4216/products/LosAngeles_SandGold_002_750x.png?v=1650876856",
+                                            "imagenURL3": "https://cdn.shopify.com/s/files/1/0573/2309/4216/products/LosAngeles_SandGold_007_750x.png?v=1650876856"
+                                            },
+                                            {
+                                                "id": 12,
+                                                "categoria": "headphone",    
+                                                "nombre": "THE EVERYDAY",
+                                                "precio": 2000,
+                                                "descripcion": "Los Angeles headphones are a stylish and high-quality pair of headphones designed for immersive audio experiences. They offer excellent sound clarity, deep bass, and a comfortable fit for extended listening sessions. With sleek design elements and advanced features, these headphones provide a premium audio experience for music lovers and audio enthusiasts alike.",
+                                                "imagenURL": "https://rayconglobal.com/cdn/shop/products/200320_Raycon_H20_Headphones_Black_Angle1_DELIVERY_900x.png?v=1669051494",
+                                                "imagenURL2": "https://rayconglobal.com/cdn/shop/products/200320_Raycon_H20_Headphones_Black_Angle4_DELIVERY_1200x.png?v=1669051494",
+                                                "imagenURL3": "https://rayconglobal.com/cdn/shop/products/200320_Raycon_H20_Headphones_White_Silver_Angle1_DELIVERY_900x.png?v=1669051494"
+                                                },
+                                                {
+                                                    "id": 13,
+                                                    "categoria": "headphone",    
+                                                    "nombre": "TUNE 500BT",
+                                                    "precio": 3000,
+                                                    "descripcion": "The Tune 500 BT headphones are a wireless on-ear headphone model by JBL. They feature a lightweight and compact design, making them portable and comfortable for everyday use. With Bluetooth connectivity, they offer wireless convenience and easy pairing with compatible devices. The Tune 500 BT headphones provide decent sound quality with well-balanced audio and punchy bass. They also have a built-in microphone for hands-free calling and voice assistant control. The battery life allows for hours of uninterrupted listening, and the foldable design makes them easy to carry and store. Overall, the JBL Tune 500 BT headphones offer a solid combination of affordability, portability, and decent sound performance.",
+                                                    "imagenURL": "https://i5.walmartimages.com/asr/7cce4747-e9bc-46e8-8eed-7b1299025270.aaf7ed7805221675568562af7cf2d892.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                                                    "imagenURL2": "https://i5.walmartimages.com/asr/36612124-4efc-476d-9239-92b60aa7f691.81b83bab4f08172d814f46cdaf4c35b2.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                                                    "imagenURL3": "https://i5.walmartimages.com/asr/ac5ba05e-4527-4533-8bd6-89096ecda02a.78ff8b5e59007a82cbae31eaa711a8d7.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+                                                    },
+                                                    {
+                                                        "id": 14,
+                                                        "categoria": "headphone",    
+                                                        "nombre": "OVER-EAR",
+                                                        "precio": 5000,
+                                                        "descripcion": "The over-ear headphones are a stylish and high-quality pair of headphones designed for immersive audio experiences. They offer excellent sound clarity, deep bass, and a comfortable fit for extended listening sessions. With sleek design elements and advanced features, these headphones provide a premium audio experience for music lovers and audio enthusiasts alike.",
+                                                        "imagenURL":  "https://cdn.shopify.com/s/files/1/0501/9035/2541/products/LE20BTOHBK03_720x.png?v=1608075851",
+                                                        "imagenURL2": "https://cdn.shopify.com/s/files/1/0501/9035/2541/files/LE20BTOHBL04.png?v=1686113036",
+                                                        "imagenURL3": "https://cdn.shopify.com/s/files/1/0501/9035/2541/files/LE20BTOHTL04.png?v=1685924438"
+                                                        },
+                                                        {
+                                                            "id": 15,
+                                                            "categoria": "headphone",    
+                                                            "nombre": "MG20",
+                                                            "precio": 3100,
+                                                            "descripcion": "The MG20 headphones are a stylish and high-quality pair of headphones designed for immersive audio experiences. They offer excellent sound clarity, deep bass, and a comfortable fit for extended listening sessions. With sleek design elements and advanced features, these headphones provide a premium audio experience for music lovers and audio enthusiasts alike.",
+                                                            "imagenURL": "https://cdn.shopify.com/s/files/1/0404/1101/products/MG20_green_Hero_800x800_a962aa64-ec90-49b2-8dd5-a0e1e1e64e11_800x800.png?v=1662127219",
+                                                            "imagenURL2": "https://cdn.shopify.com/s/files/1/0404/1101/products/MG20_green_Side_800x800_bdb4fdae-d8d2-45cb-a8a2-75a538da2bc5_800x800.png?v=1662127219",
+                                                            "imagenURL3": "https://cdn.shopify.com/s/files/1/0404/1101/products/MG20_green_Flat_800x800_5b6fa4ef-43db-4198-b47a-e82645630c75_800x800.png?v=1662127219"
+                                                            },
+                                                            {
+                                                                "id": 16,
+                                                                "categoria": "headphone",    
+                                                                "nombre": "HEAVYS",
+                                                                "precio": 2000,
+                                                                "descripcion": "The HEAVYS headphones are true wireless earbuds that offer a compact and portable design. These headphones provide a seamless and wireless audio experience, allowing you to enjoy your favorite music or take calls without any tangled cables. With their ergonomic fit and customizable ear tips, they provide comfort and a secure fit for extended periods of use. The WF-C500 headphones deliver high-quality sound with deep bass and clear treble, enhancing your audio experience. They also feature convenient touch controls for easy playback and call management. Additionally, these earbuds offer long battery life, ensuring hours of uninterrupted listening.",
+                                                                "imagenURL": "https://bgeek.eu/wp-content/uploads/2022/03/612fbc7e0879a71e1f68a71f_heavys_headphone_2-1-3-1-803x1024.png",
+                                                                "imagenURL2": "https://uploads-ssl.webflow.com/64047104bdf9c6966d977a48/6481f02a2564fe8b135f478c_headphones%20haevys-3.png",
+                                                                "imagenURL3": "https://uploads-ssl.webflow.com/64047104bdf9c6966d977a48/6481f02b77ecb95156ca18a3_headphones%20haevys-5.png"
+                                                                },
+                                                                {
+                                                                    "id": 17,
+                                                                    "categoria": "headphone",    
+                                                                    "nombre": "ATH-S220BT",
+                                                                    "precio": 4000,
+                                                                    "descripcion": "The ATH-S220BT headphones are a wireless on-ear headphone model by Audio-Technica. They offer the convenience of Bluetooth connectivity, allowing you to enjoy your favorite music without the hassle of wires. With a comfortable on-ear design, they provide a snug fit for extended listening sessions. The ATH-S220BT headphones deliver clear and dynamic sound reproduction, with a balanced audio profile and precise detailing. They feature built-in controls for easy music playback and call management, and the integrated microphone enables hands-free communication. These headphones have a long battery life, providing hours of uninterrupted listening on a single charge. Overall, the ATH-S220BT headphones offer a combination of wireless convenience, comfort, and quality sound reproduction.",
+                                                                    "imagenURL": "https://www.audio-technica.com/en-au/media/catalog/product/cache/8dd197211b5cade13ef7fc9815610330/a/t/ath-s220btnbg_01_1.png",
+                                                                    "imagenURL2": "https://www.kawarthatv.com/files/image/attachment/26398/ATH-S220BT5.png",
+                                                                    "imagenURL3": "https://www.audio-technica.com.tw/images/detailed/11/S220BT_NBG_04.png"
+                                                                    },
+                                                                    {
+                                                                        "id": 18,
+                                                                        "categoria": "headphone",    
+                                                                        "nombre": "MAJOR IV",
+                                                                        "precio": 3000,
+                                                                        "descripcion": "The MAJOR IV headphones are a wireless on-ear headphone model by Marshall. With a classic design inspired by Marshall's iconic guitar amplifiers, they offer a stylish and vintage aesthetic. The MAJOR IV headphones provide a comfortable fit for extended wear, thanks to their ergonomic design and plush ear cushions. They feature Bluetooth connectivity, allowing you to enjoy your music wirelessly from compatible devices. The sound quality is rich and well-balanced, with clear vocals and punchy bass. These headphones have intuitive controls for easy music playback and call management, and they also offer a long battery life, providing hours of listening on a single charge. Overall, the MAJOR IV headphones combine style, comfort, and great sound performance, making them a popular choice among music enthusiasts.",
+                                                                        "imagenURL": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw62d24113/images/marshall/headphones/major-iv/large/pos-marshall-major-iv-black-03.png?sw=1120&sh=1120&sm=fit",
+                                                                        "imagenURL2": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw08944168/images/marshall/headphones/major-iv/large/pos-marshall-major-iv-black-01.png?sw=1120&sh=1120&sm=fit",
+                                                                        "imagenURL3": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw04c6739d/images/marshall/headphones/major-iv/large/pos-marshall-major-iv-black-02.png?sw=1120&sh=1120&sm=fit"
+                                                                        }
+]
