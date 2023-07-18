@@ -3,6 +3,8 @@ import { ProductContext } from "../../context/productContext";
 import db from '../../firebase/firebaseConfig'; 
 import { doc, setDoc } from "firebase/firestore";
 import "./Cart.css";
+import Swal from 'sweetalert2'
+
 
 
 const Cart = () => { 
@@ -47,6 +49,41 @@ const Cart = () => {
             fecha: new Date().toLocaleString(),
             compra: carrito
           });
+
+          const swalWithBootstrapButtons = Swal.mixin({
+            customClass: {
+              confirmButton: 'btn btn-success',
+              cancelButton: 'btn btn-danger'
+            },
+            buttonsStyling: false
+          })
+          
+          swalWithBootstrapButtons.fire({
+            title: 'Are you sure?',
+            text: "You are close to completing the purchase.",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonText: 'Yes, Finish',
+            cancelButtonText: 'No, Cancel',
+            reverseButtons: true
+          }).then((result) => {
+            if (result.isConfirmed) {
+              swalWithBootstrapButtons.fire(
+                'Purchase finished',
+                'thanks for your purchase',
+                window.location.reload()
+              )
+            } else if (
+              /* Read more about handling dismissals below */
+              result.dismiss === Swal.DismissReason.cancel
+            ) {
+              swalWithBootstrapButtons.fire(
+                'Cancelled',
+                'Your purchase was cancelled',
+                'error'
+              )
+            }
+          })
         }
 
     useEffect(() => {

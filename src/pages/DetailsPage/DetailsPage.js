@@ -4,7 +4,7 @@ import './DetailsPage.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { ProductContext } from '../../context/productContext';
-
+import Swal from 'sweetalert2'
 
 const DetailsPage = () => {
   let seleccionado;
@@ -25,6 +25,13 @@ const DetailsPage = () => {
   const handleAddToCart = () => {
     setCarrito([...carrito, seleccionado]);
     console.log(carrito);
+    Swal.fire({
+      position: 'top-end',
+      icon: 'success',
+      title: 'added product',
+      showConfirmButton: false,
+      timer: 1500
+    })
   };
 
   return (
