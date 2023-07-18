@@ -28,17 +28,17 @@ function HomePage() {
         <h2 className='tituloDestacados'>Productos Destacados</h2>
         <Carousel>
           {productosDestacadosGrupos.map((grupo, index) => (
-            
+
             <Carousel.Item key={index}>
               <div className="d-flex justify-content-evenly">
                 {grupo.map((destacado) => (
-              <Link to={`/Item/${destacado?.id}`}>
-                  <div className="cardHome card" key={destacado?.id}>
-                    <div className="card-body">
-                      <h5 style={{textDecoration: "none"}} className="card-title card-title-home">{destacado?.nombre}</h5>
-                      <img width="200px" src={destacado?.imagenURL} />
+                  <Link to={`/Item/${destacado?.id}`}>
+                    <div className="cardHome card" key={destacado?.id}>
+                      <div className="card-body">
+                        <h5 style={{ textDecoration: "none" }} className="card-title card-title-home">{destacado?.nombre}</h5>
+                        <img width="200px" src={destacado?.imagenURL} />
+                      </div>
                     </div>
-                  </div>
                   </Link>
                 ))}
               </div>

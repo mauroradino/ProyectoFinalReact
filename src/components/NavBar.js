@@ -31,13 +31,13 @@ function NavBar(props) {
               <Link className="link" to="/">Home</Link>
             </li>
             <li className="nav-item">
-            <Link className="link" to="/clients">Clients</Link>
+              <Link className="link" to="/clients">Clients</Link>
             </li>
             <li className="nav-item">
-             <Link className="link" to="/about_us">About Us</Link>
+              <Link className="link" to="/about_us">About Us</Link>
             </li>
             <li className="nav-item">
-             <Link className="link" to="/category">Products</Link>
+              <Link className="link" to="/category">Products</Link>
             </li>
           </ul>
         </div>

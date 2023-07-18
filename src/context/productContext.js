@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from "react";
-import db from '../firebase/firebaseConfig'; 
+import db from '../firebase/firebaseConfig';
 import { collection, query, getDocs } from "firebase/firestore";
 
 export const ProductContext = createContext();
@@ -13,12 +13,12 @@ export const ProductProvider = ({ children }) => {
   const [cantidad, setCantidad] = useState(0);
   useEffect(() => {
     const getProducts = async () => {
-     
-        /*IN EARS*/ 
+
+      /*IN EARS*/
       const qInears = query(collection(db, "in-ears"));
-      
+
       const querySnapshotInears = await getDocs(qInears);
-      
+
       const inearsData = querySnapshotInears.docs.map((doc) => ({ ...doc.data(), id: doc.id }));
 
       setInears(inearsData);
@@ -27,13 +27,13 @@ export const ProductProvider = ({ children }) => {
 
       /*HEADPHONES*/
       const qHeadphones = query(collection(db, "headphones"));
-      
+
       const querySnapshotHeadphones = await getDocs(qHeadphones);
-      
+
       const HeadphonesData = querySnapshotHeadphones.docs.map((doc) => ({ ...doc.data(), id: doc.id }));
 
       setHeadphones(HeadphonesData);
-      /*HEADPHONES*/ 
+      /*HEADPHONES*/
       setCarrito([])
     };
     getProducts();
@@ -41,7 +41,7 @@ export const ProductProvider = ({ children }) => {
   }, []);
 
   return (
-    <ProductContext.Provider value={{   cantidad, setCantidad, setCarritoLength, carritoLength, setCarrito, carrito,  setHeadphones, Headphones, setInears, Inears, selectedProduct, setSelectedProduct }}>
+    <ProductContext.Provider value={{ cantidad, setCantidad, setCarritoLength, carritoLength, setCarrito, carrito, setHeadphones, Headphones, setInears, Inears, selectedProduct, setSelectedProduct }}>
       {children}
     </ProductContext.Provider>
   );
